@@ -9,3 +9,5 @@ telegeram收不到短信。
 共享小火箭ID
 telegram群组推荐
 美区apple id如何注册
+所有教程源自网站：https://www.52021299.xyz/
+此网站提供共享美区apple iD 和共享小火箭帐号
