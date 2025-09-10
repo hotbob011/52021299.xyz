@@ -1,4 +1,21 @@
 IOS共享账号安全使用指南
+
+![Logo](kxsw.webp)
+
+
+![Logo](images/1.png)
+
+[apple ID共享站](https://www.52021299.xyz/)
+
+[telegram 搜索群](https://t.me/sotianxia)
+
+[telegram 防封防骗 导航频道](https://t.me/xxoo369)
+
+[宝可梦高速度机场 加入tg群享受每月免费60G](https://web4.52pokemon.cc/register?code=qzhkvhLk)
+
+[telegram中文版中文包](https://t.me/xxoo369/24)
+
+
 apple共享ID因其公开性质，任何人都能登录使用，这必然带来安全和隐私风险。不规范的使用方式会显著放大这些风险，可能导致设备锁定、数据泄露等严重后果。因此，在使用网络上的美区apple ID前尤其是已购小火箭的apple ID，必须充分了解潜在风险和防范措施。
 主要安全风险
 1. 设备控制风险
