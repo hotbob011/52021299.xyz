@@ -1,4 +1,16 @@
 # 电报验证码接收问题解决指南
+![Logo](kxsw.webp)
+
+
+[apple ID共享站](https://www.52021299.xyz/)
+
+[telegram 搜索群](https://t.me/sotianxia)
+
+[telegram 防封防骗 导航频道](https://t.me/xxoo369)
+
+[telegram中文版中文包](https://t.me/xxoo369/24)
+
+[关于如何用接码平台注册Telgram](https://www.youtube.com/watch?v=bBnki7VNBQo&t=2s)
 
 作为全球最受欢迎的即时通讯工具之一，电报凭借端到端加密的安全性，吸引着海内外的用户使用它来联系好友或者分享话题。然而，对于国内用户来说，在注册和登录纸飞机时收不到验证码成为了使用应用的一大苦恼。
 
