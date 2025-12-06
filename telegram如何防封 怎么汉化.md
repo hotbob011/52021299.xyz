@@ -6,7 +6,7 @@
 
 ![Logo](images/1.png)
 
-[apple ID共享站](https://www.52021299.xyz/)
+[apple ID共享站](https://fanqiangnan.com/blog/))
 
 [telegram 搜索群](https://t.me/sotianxia)
 
