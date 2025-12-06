@@ -27,4 +27,4 @@ sms-activate这个平台必须选择你对应的注册业务，不要乱选。�
 例，博主注册openai。就可以在左侧搜索openai，然后选择号码国家。
 ![Logo](3.png)
 
-本网内容源自：[apple ID共享站](https://52021299.xyz/)
+本网内容源自：[翻墙男-科学上网之家](https://fanqiangnan.com/blog/)
