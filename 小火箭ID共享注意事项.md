@@ -5,7 +5,7 @@ IOS共享账号安全使用指南
 
 ![Logo](images/1.png)
 
-[apple ID共享站](https://www.52021299.xyz/)
+[翻墙男-科学上网之家](https://fanqiangnan.com/blog/)
 
 [telegram 搜索群](https://t.me/sotianxia)
 
