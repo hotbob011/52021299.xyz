@@ -8,7 +8,7 @@
 
 本文章源自：
 
-[apple ID共享站](https://www.52021299.xyz/)
+[apple ID共享站]([https://fanqiangnan.com/](https://fanqiangnan.com/blog/))
 
 
 ![我的网站](images/wodewangzhan.png)
