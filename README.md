@@ -1,4 +1,4 @@
-# 52021299.xyz
+# https://fanqiangnan.com/blog/
 小火箭共享ID ，
 telegram收不到验证码，
 telegeram收不到短信。
