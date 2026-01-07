@@ -1,7 +1,9 @@
 # 2026 最新小火箭共享账号  🚀
 
 > 每30分钟自动更新的Shadowrocket共享Apple ID账号
-![翻墙男科学上网之家的主页](./images/fanqiangnan.png)
+
+
+![翻墙男科学上网之家的形象图](./images/fanqiangnan.png)
 
 
 [![更新状态](https://img.shields.io/badge/状态-每日更新-brightgreen)]()
@@ -55,9 +57,13 @@
 
 ## 🔍 相关资源
 
-- [详细使用教程](https://fanqiangnan.com/apple_id.html)
+- [详细使用教程](https://fanqiangnan.com/blog/posts/4da0998e.html)
 - [VPN机场推荐](https://fanqiangnan.com/blog/posts/4de2f92f.html)（更稳定的选择）
+  ![十大站长评测后的优质VPN](./images/3823069882.webp)
+ 
 - [Telegram搜索机器人使用方法，教你白嫖TG全网资源](https://fanqiangnan.com/blog/posts/e02a8edc.html)（获取更多资源）
+  ![Telegram搜索机器人使用方法，教你白嫖TG全网资源](./images/558422069.webp)
+
 - [翻墙男-科学上网博客博](https://fanqiangnan.com/blog/)
 
 
