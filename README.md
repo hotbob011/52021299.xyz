@@ -2,12 +2,10 @@
 
 > 每30分钟自动更新的Shadowrocket共享Apple ID账号
 
-
-![翻墙男科学上网之家的形象图](./images/fanqiangnan.png)
-
-
 [![更新状态](https://img.shields.io/badge/状态-每日更新-brightgreen)]()
 [![账号数量](https://img.shields.io/badge/账号-多区域-blue)]()
+
+![翻墙男科学上网之家的形象图](./images/fanqiangnan.png)
 
 ## 📱 最新账号获取
 ![翻墙男科学上网之家的主页](./images/zhuye.png)
