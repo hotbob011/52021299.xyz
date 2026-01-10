@@ -30,7 +30,7 @@
 1.  **不要开启双重认证**：登录时如果跳出弹窗，请选择“其他选项” -> “不升级”。
 1.  **用完即退**：下载好您需要的应用后，请在**App Store**退出账号，换回自己的 ID 使用，应用依然可以正常运行。
 
-![小火箭共享帐号使用流程和方法以及注意事项](https://github.com/user-attachments/assets/5735a0ff-bb6c-437d-93c9-a6f2bd3ccea7)
+![小火箭共享帐号使用流程和方法以及注意事项](https://github.com/user-attachments/assets/221789dc-8106-4c6f-bc87-e4885d79b2b9)
 
 
 ---
